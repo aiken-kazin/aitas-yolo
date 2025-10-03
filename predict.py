@@ -47,7 +47,7 @@ def predict(model_path, image_path):
 
 
 if __name__ == "__main__":
-    image_path = "test_image/DJI_0674.JPG"
+    image_path = "/Users/ajkenkazin/qCloudy_projects/Aitas_Computer_Vision/test_image/DJI_20250619083023_0012_D.JPG"
     predict(MODEL_PATH, image_path)
 
 
