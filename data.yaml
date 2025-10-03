@@ -1,0 +1,7 @@
+path: /dataset
+
+train: images/train
+val: images/val
+
+nc: 5
+names: ["sunflower", "Grass_Weed", "Broadleaf_Weed", "Disease", "Sunflower_Core"]
